@@ -11,6 +11,7 @@ namespace HelloWorldJonathanSotorres
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("V01 06/11/2019 modifié à 21h10 par François Sanglier\n");
             Console.ReadKey();
         }
     }
